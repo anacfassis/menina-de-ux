@@ -1,0 +1,33 @@
+.apresentation {
+    margin: 30px 80px;
+}
+
+.img-fluid.animated {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 0 0 2px 2px #f1f1f1;
+    transition: all 0.3s ease-in-out;
+    margin: 50px 80px;
+}
+
+h1 {
+    margin: auto;
+    padding: 10px 0;
+    border-bottom: #eccfcf 5px solid;
+}
+
+p {
+    margin: 10px 10px;
+    padding: 10px 0;
+    text-align: justify;
+    width: 90%;
+}
+
+.text-center {
+    text-align: right;
+}
+
+.float-right {
+    float: right;
+}
